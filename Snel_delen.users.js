@@ -9,8 +9,8 @@
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
 // @run-at      document-idle
 // @grant       none
-// @downloadURL 
-// @updateURL 
+// @downloadURL https://github.com/Rene-63/ALT-LSSM/blob/main/Snel_delen.users.js
+// @updateURL   https://github.com/Rene-63/ALT-LSSM/blob/main/Snel_delen.users.js
 // ==/UserScript==
 
 /* global missionMarkerAdd */
