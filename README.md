@@ -8,3 +8,4 @@ Sommigen zijn wel geschikt voor meerdere versies en sommigen heb ik aangepast vo
 Snel_Delen (oorspronkelijk Solodarprinzip door Bos-Ernie)
 Dit script maakt het mogelijk om vanuit je meldingenscherm snel te delen
 
+Personeel_Toewijzen (oorspronkelijk Personalzuweisungsbutton van BOS-Ernie)
